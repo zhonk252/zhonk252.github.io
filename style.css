@@ -3,5 +3,12 @@ html{
 }
 
 h1{
+    color: var(--primary-color);
     color:blue;
+}
+
+.haha{
+    border: 3px red;
+    border-radius: 3rem;
+    color:pink;
 }
