@@ -1,14 +1,55 @@
 html{
-    background-color: aquamarine;
+    background-color:black;
+}
+#headline{
+    font-family: 'Libre Barcode 128 Text', cursive;
+    color:rgb(214, 9, 9);
+    font-size: 30px;
+    position: fixed;
+    width: 584px;
+    height: 161px;
+    left: 900px;
+    top: 60px;
+}
+#line{
+        position: fixed;
+        top:0px;
+        left:20px;
+        
 }
 
-h1{
-    color: var(--primary-color);
-    color:blue;
+.image{
+        position: fixed;
+        top:0px;
+        left:0px;
+        height: 800px;
+
 }
 
-.haha{
-    border: 3px red;
-    border-radius: 3rem;
-    color:pink;
+
+
+#weibo{
+    position: fixed;
+width: 100px;
+height: 100px;
+left: 1028px;
+top: 211px;
+
+}
+
+#doc{
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    left: 1039px;
+    top: 386px;
+    
+}
+
+#music{
+    position: fixed;
+    width: 121px;
+    height: 121px;
+    left: 1030px;
+    top: 531px;
 }
