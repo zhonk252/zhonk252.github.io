@@ -10,56 +10,40 @@ h1{
     
     color:rgb(214, 9, 9);
     position: fixed;
-    width: 584px;
-    height: 161px;
-    left: 900px;
-    top: 60px;
-}
-#line{
-        position: fixed;
-        top:0px;
-        left:20px;
-        max-width: 100%;
-        
+    /* width: 584px;
+    height: 161px; */
+    top: 40px;
+    margin-left: 65%;
+    
 }
 
-.image{
-        position: fixed;
-        top:0px;
-        left:0px;
-        height: 800px;
-        max-width:100%; ;
-
+.bg{
+    position:fixed;
+   max-width: 100%;
 }
 
+.icon{
+margin-left: 75%;
+max-width: 20%;
+}
 
 
 #weibo{
 
-position: absolute;
-width: 100px;
-height: 100px;
-right: 20px;
+position: fixed;
+/* right: 20px; */
 top: 211px;
-margin-right: 20%;
-
 }
 
 #doc{
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    right: 14px;
+    position: fixed;
+    /* right: 14px; */
     top: 390px;
-    margin-right: 20%;
     
 }
 
 #music{
-    position: absolute;
-    width: 121px;
-    height: 121px;
-    right: 10px;
+    position: fixed;
+    /* right: 10px; */
     top: 560px;
-    margin-right: 20%;
 }
