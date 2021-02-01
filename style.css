@@ -18,8 +18,9 @@ h1{
 }
 
 .bg{
-    position:fixed;
-   max-width: 100%;
+    background-position: right bottom, left top;
+    height: 80%;
+   
 }
 
 .icon{
