@@ -3,6 +3,10 @@ html{
 }
 
 h1{
+   
+        font-family:'Libre Barcode 128 Text', cursive;;
+        font-size: 60px;
+    
     color:rgb(214, 9, 9);
     position: fixed;
     width: 584px;
